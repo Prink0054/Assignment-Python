@@ -1,6 +1,6 @@
 
 
-#Questioin1
+#Question1
 
 a = input("Enter First name")
 b = input("Enter Middle name")
@@ -48,7 +48,7 @@ c.sort()
 print(c)
 
 
-Question 6
+#Question 6
 
 #Stack
 stack = ["rahul" , "sanjeev" , "akbar"]
