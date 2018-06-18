@@ -1,4 +1,4 @@
-
+    
 
 #Question1
 
@@ -28,16 +28,19 @@ List.append(g)
 List.append(h)
 print(List)
 
+
 #Question 3
 
 Data = ["Mohali" , "Delhi" , "Mohali" , "Mohali"]
 print(Data.count("Mohali"))
+
 
 #Question 4
 
 Number = [1,9,10,3,8,2,5]
 Number.sort()
 print(Number)
+
 
 #Question 5
 
@@ -72,3 +75,5 @@ queue.popleft()
 print(queue)
 queue.popleft()
 print(queue)
+
+
