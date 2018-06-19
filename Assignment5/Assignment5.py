@@ -54,8 +54,6 @@ if(a<=200) :
 else:
     print("Enter value leass than 200")
 
-
-
 #Question5
 
 Quantity = int(input("Enter Quantity of the Product"))
