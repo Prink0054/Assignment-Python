@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="42f31a7c-d8a7-40a2-aa8c-49e2cf8eb08a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment4/Assignment4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment4/Assignment4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment5/Assignment5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment5/Assignment5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment6/Assignment6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment6/Assignment6.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,9 +14,66 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Assignment6.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assignment6/Assignment6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="454">
+              <caret line="118" column="12" selection-start-line="118" selection-start-column="12" selection-end-line="118" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Assignment6.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assignment6.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Function.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assignment6/Function.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="practice.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/practice.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-146" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dhs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/untitled/dhs.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Assignment.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assignment/Assignment.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Assignment3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assignment3/Assignment3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-716" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Assignment4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assignment4/Assignment4.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Assignment5.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assignment5/Assignment5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-266">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Assignment7.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assignment6/Assignment7.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -38,6 +93,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assignment6.py" />
+        <option value="$PROJECT_DIR$/Assignment6/Assignment6.py" />
       </list>
     </option>
   </component>
@@ -52,6 +108,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -59,11 +116,30 @@
               <item name="Piecharm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Piecharm" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Piecharm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Piecharm" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Piecharm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Piecharm" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Piecharm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Piecharm" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Piecharm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Piecharm" type="462c0819:PsiDirectoryNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -77,6 +153,31 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Assignment6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Piecharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment6/Assignment6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Assignment6" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -98,7 +199,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32838285" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -118,6 +219,58 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assignment6/Assignment6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="118" column="12" lean-forward="true" selection-start-line="118" selection-start-column="12" selection-end-line="118" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment6.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment6.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment/Assignment.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment3/Assignment3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-716" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment4/Assignment4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment5/Assignment5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-266">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment6/Assignment7.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment6/Assignment6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="118" column="12" selection-start-line="118" selection-start-column="12" selection-end-line="118" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment6/Function.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untitled/dhs.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assignment6.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>

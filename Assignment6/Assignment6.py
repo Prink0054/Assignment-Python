@@ -1,3 +1,4 @@
+"""
 #Question1
 
 Data = []
@@ -9,6 +10,11 @@ print(Data)
 for i in Data:
     print(i)
 
+
+#Question2
+
+while True:
+  print ("INFINITE")
 
 #Question3
 
@@ -97,3 +103,23 @@ a = int(input("Enter the value"))
 x = l.index(2)
 x = l.remove(2)
 print(l)
+
+
+
+
+List = []
+f=1
+for i in range(1,31):
+    f = f*i
+    s = f
+    # print(s,end=" ")
+
+    List.append(s)
+print(List)
+
+
+for i in range(0,4):
+    for i in range(0,i+1):
+        print("*\n", )
+    #print()
+"""
