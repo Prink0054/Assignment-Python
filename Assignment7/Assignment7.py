@@ -1,4 +1,4 @@
-"""
+
 #Question1
 
 radius = float(input("Enter no."))
@@ -63,4 +63,3 @@ def factorial():
 factorial()
 print(Dic)
 
-"""
