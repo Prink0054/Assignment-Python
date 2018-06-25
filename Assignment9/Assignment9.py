@@ -38,7 +38,7 @@ print(obj.convertFahrenhiet(91))
 
 
 #Question4
-class MovieDetails():
+class MovieDetails:
     def __init__(self,moviename, artistname, yearofrelease, ratings):
         self.moviename=moviename
         self.artistname=artistname
@@ -64,7 +64,7 @@ l.Update("Diljit","dOSANJH",str(2019),str(5))
 
 
 #Question5
-class Expenditure():
+class Expenditure:
     expenditure=2000
     savings=1000
     def __init__(self):
