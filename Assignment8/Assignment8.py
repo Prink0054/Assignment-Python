@@ -74,4 +74,6 @@ print(math.gcd(a,b))
 
 import os
 print(os.getcwd())
+print(property.fget)
 print(os.environ)
+print(super.__hash__((this)))
