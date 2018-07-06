@@ -36,8 +36,23 @@
 # # x = np.array([[1,2],[3,4]])
 # # print(x.transpose())
 # print(not x)
-
-
+#
+#
+# import numpy as np
+# a = np.array([1,2,3,4,5])
+# print(type(a))
 import numpy as np
-a = np.array([1,2,3,4,5])
-print(type(a))
+
+# data = {'Name':['Tom','Jack','Steve','Ricky'],
+#         'Age':[28,34,29,42]}
+# df = pd.DataFrame(data)
+#
+#
+# print(data.values())
+
+import pandas as pd
+# df = pd.read_csv('Sampple.csv')
+# print(df)
+data = np.array(['a','b','c','d'])
+s = pd.Series(data)
+print(s)
